@@ -1,0 +1,5 @@
+[
+  "test_4_verify_sign_up_form.py::TestSignUpForm::()::test_setup",
+  "test_4_verify_sign_up_form.py::TestSignUpForm::()::test_registration_new_account",
+  "test_4_verify_sign_up_form.py::TestSignUpForm::()::test_teardown"
+]

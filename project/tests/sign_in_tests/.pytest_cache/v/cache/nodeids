@@ -1,0 +1,17 @@
+[
+  "test_1_sign_in_fields_validation.py::TestLogin::()::test_setup",
+  "test_1_sign_in_fields_validation.py::TestLogin::()::test_login",
+  "test_1_sign_in_fields_validation.py::TestLogin::()::test_teardown",
+  "test_2_username_tooltip_sign_in.py::TestTooltip::()::test_setup",
+  "test_2_username_tooltip_sign_in.py::TestTooltip::()::test_username_tooltip",
+  "test_2_username_tooltip_sign_in.py::TestTooltip::()::test_teardown",
+  "test_3_sign_in_empty_fields.py::TestEmptyFields::()::test_setup",
+  "test_3_sign_in_empty_fields.py::TestEmptyFields::()::test_empty_fields_validation",
+  "test_3_sign_in_empty_fields.py::TestEmptyFields::()::test_teardown",
+  "test_forgot_password_link.py::TestForgotPassword::()::test_setup",
+  "test_forgot_password_link.py::TestForgotPassword::()::test_",
+  "test_forgot_password_link.py::TestForgotPassword::()::test_teardown",
+  "test_sign_in_positive.py::TestLoginPositive::()::test_setup",
+  "test_sign_in_positive.py::TestLoginPositive::()::test_login",
+  "test_sign_in_positive.py::TestLoginPositive::()::test_teardown"
+]

@@ -1,0 +1,4 @@
+{
+  "test_1_sign_in_fields.py::TestLogin::()": true,
+  "test_2_username_tooltip.py::TestLogin::()::test_login": true
+}

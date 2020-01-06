@@ -1,0 +1,4 @@
+{
+  "test_4_verify_sign_up_form.py::TestLogin::()::test_registration_new_account": true,
+  "test_4_verify_sign_up_form.py::TestSignUpForm::()::test_registration_new_account": true
+}

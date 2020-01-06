@@ -1,0 +1,5 @@
+[
+  "test_1.py::TestLogin::()::test_setup",
+  "test_1.py::TestLogin::()::test_login",
+  "test_1.py::TestLogin::()::test_teardown"
+]
